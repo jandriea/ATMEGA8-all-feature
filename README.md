@@ -12,3 +12,6 @@ Ready to use ATMEGA8 library. Please refer to ATMEGA8 documentation for more inf
  - TIMER0, TIMER1, TIMER2
  - ADC
  - Integrity test
+ - Seven segments
+ - LCD
+ - Keypad
